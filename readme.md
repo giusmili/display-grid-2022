@@ -1,5 +1,6 @@
 # Les display css : display block
 > Exemple en code html
+[voir la page de publication](https://giusmili.github.io/display-grid-2022/)
 
 ```css
     body{
